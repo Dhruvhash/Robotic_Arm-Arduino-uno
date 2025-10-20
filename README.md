@@ -38,16 +38,19 @@ This project is a 4-axis robotic arm designed for automated "Pick and Place" tas
 
 (This is the `61KNgjbdupL._SY606_.jpg` you provided. It should be saved in the `docs/diagrams/` folder.)
 
-![Photo of the 4-axis robotic arm](docs/diagrams/robot_arm_photo.jpg)
+![Photo of the 4-axis robotic arm](Docs/diagrams/robot_arm_photo.jpg.jpg)
 
 ## 🧩 Block Diagram Image
 
 (This is the diagram from your previous upload.)
 
-![Block Diagram](docs/diagrams/block_diagram.png)
+![Block Diagram](Docs/diagrams/block_diagram.png.jpg)
+
+##Project Connection
+![connection](Docs/diagrams/Connection.png.jpg)
 
 ## 📄 Paper or Report Link
 
 For a detailed explanation of the project, including design choices, kinematics, and results, please see the full report.
 
-[**Read the Full Project Report (PDF)**](docs/report.pdf)
+[**Read the Full Project Report (PDF)**](Docs/report.pdf)
