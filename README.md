@@ -50,7 +50,8 @@ This project is a 4-axis robotic arm designed for automated "Pick and Place" tas
 ##Project Connection
 ![connection](Docs/diagrams/Connection.png.jpg)
 
-**![Software]([https://drive.google.com/drive/folders/155aWvKH5jcQ96tFvs-LeDclDERoTMNEt](https://drive.google.com/drive/folders/155aWvKH5jcQ96tFvs-LeDclDERoTMNEt?usp=sharing))**
+**Software**
+(https://drive.google.com/drive/folders/155aWvKH5jcQ96tFvs-LeDclDERoTMNEt)
 
 ## 📄 Paper or Report Link
 
