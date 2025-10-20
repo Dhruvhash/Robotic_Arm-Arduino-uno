@@ -30,7 +30,7 @@ This project is a 4-axis robotic arm designed for automated "Pick and Place" tas
 2.  **Connect Electronics:** Wire the components as shown in the **Connection Diagram** section below. **Warning:** Do NOT power the servos directly from the Arduino's 5V pin. This will damage the Arduino. You MUST use an external 5V power supply.
 3.  **Upload Code:**
     * Clone this repository.
-    * Open the `software/main_code/main_code.ino` file in your Arduino IDE.
+    * Open the `main_code` file in your Arduino IDE.
     * Select "Arduino Uno" as your board and the correct COM port.
     * Upload the sketch.
 4.  **Test:** The arm will move to its "home" position and then begin its automated pick-and-place sequence.
