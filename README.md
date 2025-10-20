@@ -2,7 +2,7 @@
 
 ## 🤖 Project Summary
 
-This project is a 4-axis robotic arm designed for automated "Pick and Place" tasks. It uses an Arduino microcontroller to control four servo motors: one for the base, two for the arm segments, and one for the gripper. The system is powered by an external 5V power supply to ensure stable movement.
+This project is a 4-axis robotic arm designed for automated "Pick and Place" tasks. It uses an Arduino microcontroller and software  to control four servo motors: one for the base, two for the arm segments, and one for the gripper. The system is powered by an external 5V power supply to ensure stable movement.
 
 ## ⚙️ Hardware & Software Requirements
 
@@ -22,6 +22,7 @@ This project is a 4-axis robotic arm designed for automated "Pick and Place" tas
 * **IDE:** Arduino IDE or VS Code with PlatformIO
 * **Libraries:**
     * `Servo.h` (comes pre-installed with the Arduino IDE)
+* Arm contol software
 
 ## 🔧 Setup Instructions
 
@@ -48,6 +49,8 @@ This project is a 4-axis robotic arm designed for automated "Pick and Place" tas
 
 ##Project Connection
 ![connection](Docs/diagrams/Connection.png.jpg)
+
+**## ![Software](https://drive.google.com/drive/folders/155aWvKH5jcQ96tFvs-LeDclDERoTMNEt)**
 
 ## 📄 Paper or Report Link
 
