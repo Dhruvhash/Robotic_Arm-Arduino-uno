@@ -58,3 +58,13 @@ This project is a 4-axis robotic arm designed for automated "Pick and Place" tas
 For a detailed explanation of the project, including design choices, kinematics, and results, please see the full report.
 
 [**Read the Full Project Report (PDF)**](Docs/report.pdf)
+
+## 🙏 Acknowledgements
+
+This project's code and logic were inspired by and referenced from the following tutorial:
+
+* **Project:** Robotic Arm with Arduino - Save/Play/Export/Import Positions
+* **Creator:** FABRI creator
+* **Video:** [https://www.youtube.com/watch?v=ZEir102PxJ8](https://www.youtube.com/watch?v=ZEir102PxJ8)
+
+A big thank you to FABRI creator for sharing their excellent work with the community.
